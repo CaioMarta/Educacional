@@ -1,0 +1,11 @@
+C:\Users\20210888\source\repos\Educacional\Educacional\bin\Debug\netcoreapp2.2\Educacional.deps.json
+C:\Users\20210888\source\repos\Educacional\Educacional\bin\Debug\netcoreapp2.2\Educacional.runtimeconfig.json
+C:\Users\20210888\source\repos\Educacional\Educacional\bin\Debug\netcoreapp2.2\Educacional.runtimeconfig.dev.json
+C:\Users\20210888\source\repos\Educacional\Educacional\bin\Debug\netcoreapp2.2\Educacional.dll
+C:\Users\20210888\source\repos\Educacional\Educacional\bin\Debug\netcoreapp2.2\Educacional.pdb
+C:\Users\20210888\source\repos\Educacional\Educacional\obj\Debug\netcoreapp2.2\Educacional.csprojAssemblyReference.cache
+C:\Users\20210888\source\repos\Educacional\Educacional\obj\Debug\netcoreapp2.2\Educacional.csproj.CoreCompileInputs.cache
+C:\Users\20210888\source\repos\Educacional\Educacional\obj\Debug\netcoreapp2.2\Educacional.AssemblyInfoInputs.cache
+C:\Users\20210888\source\repos\Educacional\Educacional\obj\Debug\netcoreapp2.2\Educacional.AssemblyInfo.cs
+C:\Users\20210888\source\repos\Educacional\Educacional\obj\Debug\netcoreapp2.2\Educacional.dll
+C:\Users\20210888\source\repos\Educacional\Educacional\obj\Debug\netcoreapp2.2\Educacional.pdb
